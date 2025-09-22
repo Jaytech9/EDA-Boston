@@ -157,6 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Boston Housing dataset from UCI Machine Learning Repository
+- Inspiration from Generation Ghana DA 
 - Inspiration from various EDA projects in the data science community
 - Thanks to the Python data science ecosystem (pandas, matplotlib, seaborn, scipy)
 
