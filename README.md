@@ -1,4 +1,4 @@
-# EDA Python - Boston Housing Analysis (https://jaytech9.github.io/EDA-Boston/) Kindly open in chrome 
+# EDA Python - Boston Housing Analysis (https://jaytech9.github.io/EDA-Boston/) 
 
 A comprehensive Exploratory Data Analysis (EDA) project analyzing the Boston Housing dataset using Python. This project demonstrates various data analysis techniques, visualization methods, and statistical insights.
 
